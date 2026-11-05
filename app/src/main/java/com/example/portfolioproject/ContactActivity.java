@@ -13,6 +13,7 @@ public class ContactActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String msg = etContactMessage.getText().toString();
                 Toast.makeText(ContactActivity.this, "Sent: " + msg, Toast.LENGTH_SHORT).show();
-}         });
-}
+            }
+        });
+    }
 }

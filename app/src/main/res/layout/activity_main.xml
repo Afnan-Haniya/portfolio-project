@@ -24,6 +24,14 @@
     <Button
         android:id="@+id/btnOpenAbout"
         android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-        android:text="Go to About Me" />
+        android:layout_height="wrap_content"
+        android:text="Go to About Me"
+        android:layout_marginBottom="32dp" />
+    <TextView
+        android:id="@+id/tvFooter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="© 2026 Portfolio App - All Rights Reserved"
+        android:layout_marginTop="450dp"
+        android:textSize="12sp" />
 </LinearLayout>
