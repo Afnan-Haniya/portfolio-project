@@ -1,5 +1,4 @@
 <resources>
-    <string
-        name="app_name">Android Portfolio App
+    <string name="app_name">Android Portfolio App
     </string>
 </resources>
